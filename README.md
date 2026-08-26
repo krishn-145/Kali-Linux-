@@ -115,6 +115,7 @@ pkg upgrade
 
 ```bash
 pkg install curl coreutils -y
+pkg install wget -y
 ```
 
 ### 3. Give storage permission
