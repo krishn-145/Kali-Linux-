@@ -135,10 +135,8 @@ chmod +x install.sh
 
 Then select:
 
-```text
-1 = Full
-2 = Minimal
-3 = Nano
+``` Start
+nh
 ```
 
 ---
