@@ -139,6 +139,11 @@ Then select:
 nh
 ```
 
+Update:
+
+```
+sudo apt update && apt upgrade -y
+```
 ---
 
 ## 📦 NetHunter
