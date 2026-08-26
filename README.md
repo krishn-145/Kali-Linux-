@@ -1,6 +1,9 @@
 # 🐉 Kali Linux ✒️
 <img width="588" height="342" alt="151342" src="https://github.com/user-attachments/assets/5b010ff8-1a74-4829-a222-d13b2a8d905b" />
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
+
 > **A professional Kali Linux security-testing environment for compatible Android devices.**
 
 **Designed & Customized by ONXX** 🛠️  
