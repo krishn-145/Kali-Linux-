@@ -1,4 +1,4 @@
-# 🐉 Kali NetHunter — ONXX 
+# 🐉 Kali Linux ✒️
 
 > **A professional Kali Linux security-testing environment for compatible Android devices.**
 
