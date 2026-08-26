@@ -1,4 +1,5 @@
 # 🐉 Kali Linux ✒️
+<img width="588" height="342" alt="151342" src="https://github.com/user-attachments/assets/5b010ff8-1a74-4829-a222-d13b2a8d905b" />
 
 > **A professional Kali Linux security-testing environment for compatible Android devices.**
 
@@ -125,7 +126,10 @@ termux-setup-storage
 ### 4. Run the ONXX installer
 
 ```bash
-bash install.sh
+git clone https://github.com/onxx-x145/Kali-Linux-.git
+cd Kali-Linux-
+chmod +x install.sh
+./install.sh
 ```
 
 Then select:
