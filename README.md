@@ -18,6 +18,7 @@ This ONXX project provides a clean, terminal-style installer interface for selec
 ### 👑 Owner / Creator
 
 **ONXX**
+**HARI**
 
 > Android • Linux • Coding • Cybersecurity • Technology
 
