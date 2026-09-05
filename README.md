@@ -1,12 +1,12 @@
 # 🐉 Kali Linux ✒️
 <img width="588" height="342" alt="151342" src="https://github.com/user-attachments/assets/5b010ff8-1a74-4829-a222-d13b2a8d905b" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_insrnx_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ur_.krishn._02)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasu90)
 
 > **A professional Kali Linux security-testing environment for compatible Android devices.**
 
-**Designed & Customized by ONXX** 🛠️  
+**Designed & Customized by Krishn** 🛠️  
 **Platform:** Android 📱  
 **Base:** Kali Linux 🐉  
 **Architecture:** ARM64
@@ -17,12 +17,11 @@
 
 **Kali NetHunter** is a Kali Linux-based mobile penetration-testing platform designed for Android devices.
 
-This ONXX project provides a clean, terminal-style installer interface for selecting an ARM64 NetHunter package.
+This krishn project provides a clean, terminal-style installer interface for selecting an ARM64 NetHunter package.
 
 ### 👑 Owner / Creator
 
-**ONXX**
-**HARI**
+**KRISHN**
 
 > Android • Linux • Coding • Cybersecurity • Technology
 
@@ -53,18 +52,18 @@ Available package choices:
 - 🌐 Official-source download workflow
 - 💾 Android storage support
 - 🔎 Basic package and architecture checks
-- 🎨 ONXX terminal interface
+- 🎨 KRISHNterminal interface
 - 📲 Telegram, Website and Instagram information
 - 🛡️ Security-testing focused environment
 
 ---
 
-## 🖥️ ONXX Terminal Interface
+## 🖥️ KRISHN Terminal Interface
 
 ```text
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
-║              KALI LINUX • ONXX                   ║
+║              KALI LINUX •                     ║
 ║                                                  ║
 ║                 ***OWNER***                      ║
 ║                                                  ║
@@ -72,7 +71,7 @@ Available package choices:
 ║       [2] NetHunter ARM64 (minimal)              ║
 ║       [3] NetHunter ARM64 (nano)                 ║
 ║                                                  ║
-║          Designed & Customized by ONXX           ║
+║          Designed & Customized by KRISHN           ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -130,7 +129,7 @@ termux-setup-storage
 ### 4. Run the ONXX installer
 
 ```bash
-git clone https://github.com/onxx-x145/Kali-Linux-.git
+git clone https://github.com/krishn-145/Kali-Linux-.git
 cd Kali-Linux-
 chmod +x install.sh
 ./install.sh
@@ -169,8 +168,8 @@ A lightweight option intended for a very small base environment.
 
 ## 🌐 ONXX Links
 
-- 📲 **Telegram:** https://t.me/onxx12
-- 🌍 **Website:** https://onxx2.vercel.app/
+- 📲 **Telegram:** https://t.me/krishn18
+- 🌍 **Website:** https://krishn2.vercel.app/
 - 📸 **Instagram:** https://www.instagram.com/_insrnx_/
 
 ---
@@ -192,7 +191,7 @@ This project is intended for:
 
 ## ⚠️ Important Notice
 
-This is an **ONXX-customized installer/documentation project** and is **not an official Kali Linux project**.
+This is an **KRISHN-customized installer/documentation project** and is **not an official Kali Linux project**.
 
 Kali Linux / Kali NetHunter names and trademarks belong to their respective owners.
 
@@ -253,7 +252,7 @@ Check:
 
 ---
 
-## ⭐ Support ONXX
+## ⭐ Support KRISHN 
 
 If this project helped you:
 
@@ -274,13 +273,13 @@ If this project helped you:
 ║                                                  ║
 ║                    ×                             ║
 ║                                                  ║
-║                   ONXX                           ║
+║                   KRISHN                          ║
 ║                                                  ║
 ║        ANDROID SECURITY PLATFORM                 ║
 ║                                                  ║
-║        Designed & Customized by ONXX             ║
+║        Designed & Customized by KRISHN             ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-**Made with ❤️ by ONXX**
+**Made with ❤️ by KRISHN**
